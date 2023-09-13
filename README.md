@@ -1,4 +1,3 @@
-<p img width="469" heigth="300" src=source/assets/142825490/ca23971c-a0bc-4b1c-adac-19e00bf1b2ed.gif>
 
 
 
