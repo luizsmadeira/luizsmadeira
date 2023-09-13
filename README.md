@@ -1,9 +1,9 @@
+<p img width="469" heigth="300" src=source/assets/142825490/ca23971c-a0bc-4b1c-adac-19e00bf1b2ed.gif>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=hearder"/>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=Opa,+Tudo+Beleza?+Eu+sou+o+Luiz+&#129302;;👨🏻‍💻+Projetos+em+desenvolvimento+;&#127891;+Análise+e+Desenvolvimento+de+Sistemas;Seja+Muito+bem+vindo!+☺☺)](https://git.io/typing-svg)
 
-![Matrix Code Animation Gif Free Animated Background](https://github.com/luizsmadeira/luizsmadeira/assets/142825490/737a79f6-672a-4979-9999-62cf3cf4d6e3)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizsmadeira&bg_color=000000&color=ffffff&line=20ff4d&point=f5fefc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
